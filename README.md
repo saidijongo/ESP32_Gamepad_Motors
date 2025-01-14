@@ -17,3 +17,5 @@ https://sixaxispairtool.software.informer.com/download/
 https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbVFUaHQ0Z2ZoM3FXZHVvcFBYMUx2UWFyaHJCQXxBQ3Jtc0tuV3BoaTVORzhUVE92emZ0UXYyYjVESkZfekJfUTROSE4xRlJzdUJWdkdlN2pVb2g1cWFITXZUYWRrbk9UdGM0NzhHTy1COS1WTFRjTFJJaFFQV09nc3dYeGtjTmUyTzlHMUtQSl9ydEtSMFhyNkotSQ&q=https%3A%2F%2Fgithub.com%2Faed3%2FPS4-esp32%2Farchive%2Frefs%2Fheads%2Fmaster.zip&v=dRysvxQfVDw
 
 https://github.com/aed3/PS4-esp32
+
+https://docs.arduino.cc/tutorials/nano-rp2040-connect/rp2040-01-technical-reference/
