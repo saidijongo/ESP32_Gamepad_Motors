@@ -1,5 +1,5 @@
 # ESP32_Gamepad_Motors
-Controlling motors with gamepad
+Controlling motors with gamepad.nRF52840 chip is capable of USB HID
 
 Projects.
 1.
