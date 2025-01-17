@@ -23,3 +23,6 @@ https://docs.arduino.cc/tutorials/nano-rp2040-connect/rp2040-01-technical-refere
 
 Arduino timer calc
 https://wolles-elektronikkiste.de/en/timer-and-pwm-part-1-8-bit-timer0-2
+
+![image](https://github.com/user-attachments/assets/6f9d6132-c2e8-4800-9269-767a2540b5b4)
+
