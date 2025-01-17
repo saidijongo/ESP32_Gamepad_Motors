@@ -13,6 +13,7 @@ ArduinoIDE Preferences
 https://github.com/stm32duino/BoardManagerFiles/raw/main/package_stmicroelectronics_index.json
 https://raw.githubusercontent.com/espressif/arduino-esp32/gh-pages/package_esp32_index.json
 https://raw.githubusercontent.com/ricardoquesada/esp32-arduino-lib-builder/master/bluepad32_files/package_esp32_bluepad32_index.json
+https://www.hackatronic.com/brushless-dc-bldc-motor-driver-circuit-using-555-timer-ic/
 
 https://sixaxispairtool.software.informer.com/download/
 https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbVFUaHQ0Z2ZoM3FXZHVvcFBYMUx2UWFyaHJCQXxBQ3Jtc0tuV3BoaTVORzhUVE92emZ0UXYyYjVESkZfekJfUTROSE4xRlJzdUJWdkdlN2pVb2g1cWFITXZUYWRrbk9UdGM0NzhHTy1COS1WTFRjTFJJaFFQV09nc3dYeGtjTmUyTzlHMUtQSl9ydEtSMFhyNkotSQ&q=https%3A%2F%2Fgithub.com%2Faed3%2FPS4-esp32%2Farchive%2Frefs%2Fheads%2Fmaster.zip&v=dRysvxQfVDw
