@@ -10,6 +10,7 @@ https://github.com/un0038998/PS4Controller_ESP32
 https://github.com/un0038998/PS5_Controlled_Car/tree/main
 https://racheldebarros.com/esp32-projects/control-leds-motors-servos-with-a-game-controller-and-esp32/
 https://www.mikrocontroller.net/attachment/352938/BLDC_motors.pdf
+https://github.com/vedderb/bldc/blob/master/main.c
 
 ArduinoIDE Preferences
 https://github.com/stm32duino/BoardManagerFiles/raw/main/package_stmicroelectronics_index.json
