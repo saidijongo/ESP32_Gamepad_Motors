@@ -30,3 +30,8 @@ https://wolles-elektronikkiste.de/en/timer-and-pwm-part-1-8-bit-timer0-2
 
 ![image](https://github.com/user-attachments/assets/6f9d6132-c2e8-4800-9269-767a2540b5b4)
 
+
+BLDC
+https://www.mikrocontroller.net/attachment/352938/BLDC_motors.pdf
+ https://www.insightcentral.net/attachments/jy01_v3-5_2018-english-pdf.83073/
+
